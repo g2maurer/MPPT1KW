@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MPPT_1KW_ESP32-rescue)(type Legacy)(uri ${KIPRJMOD}/MPPT_1KW_ESP32-rescue.lib)(options "")(descr ""))
+  (lib (name MPPT_1KW_ESP32_ggm-rescue)(type Legacy)(uri ${KIPRJMOD}/MPPT_1KW_ESP32_ggm-rescue.lib)(options "")(descr ""))
+  (lib (name MPPT_1KW_ESP32_ggmV2-rescue)(type Legacy)(uri ${KIPRJMOD}/MPPT_1KW_ESP32_ggmV2-rescue.lib)(options "")(descr ""))
+  (lib (name MPPT_1KW_ESP32_ggmV3-rescue)(type Legacy)(uri ${KIPRJMOD}/MPPT_1KW_ESP32_ggmV3-rescue.lib)(options "")(descr ""))
+)
